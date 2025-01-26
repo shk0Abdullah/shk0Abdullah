@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Amjad</h1>
 <h3 align="center">A passionate Student developer from Pakistan</h3>
 
-- 🔭 I’m currently working on [Commerce](https://cs50.harvard.edu/web/2020/projects/2/commerce/)
+- 🔭 I’m currently working on [USER INTERFACE](https://cs50.harvard.edu/web/2020/weeks/6/)
 
 - 🌱 I’m currently learning **CS50 Web**
 
